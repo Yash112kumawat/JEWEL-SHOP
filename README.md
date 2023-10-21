@@ -1,0 +1,2 @@
+# JEWEL-SHOP
+second project
